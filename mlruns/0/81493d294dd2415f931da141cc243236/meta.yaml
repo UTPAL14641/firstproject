@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/81493d294dd2415f931da141cc243236/artifacts
+end_time: 1709361961397
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 81493d294dd2415f931da141cc243236
+run_name: lyrical-stoat-707
+run_uuid: 81493d294dd2415f931da141cc243236
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709361951932
+status: 3
+tags: []
+user_id: utpal
